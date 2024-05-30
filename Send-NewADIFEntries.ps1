@@ -1,3 +1,5 @@
+$ErrorActionPreference = "Inquire"
+
 # Update these values for your Cloudlog instance
 $CL_URL = "http://cloudlog.local/index.php/api/qso"
 $CL_Key = ""
